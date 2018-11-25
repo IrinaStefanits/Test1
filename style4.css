@@ -1,0 +1,39 @@
+#container{
+	font-size:0;
+	border: 0px;
+}
+.header
+{
+	padding: 15px;
+	height: 150px;
+	background: salmon;
+	text-align: center;
+}
+.left
+{
+	padding:5px;
+	margin: 0px;
+	height: 100%;
+	background: papayawhip;
+}
+.right
+{
+	padding:15px;
+	margin: 0px;
+	text-align: center;
+	background: burlywood;
+	height: 100%;
+}
+.text
+{
+font-family:verdana; 
+font-size:11; 
+margin:15px; 
+text-align: justify;
+}
+.footer
+{
+	background: chocolate;
+	padding:10px;
+	text-align: center;
+}
